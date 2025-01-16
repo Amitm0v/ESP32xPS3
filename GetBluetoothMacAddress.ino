@@ -7,7 +7,7 @@ void setup()
 
     String address = Ps3.getAddress();
 
-    Serial.print("The ESP32's Bluetooth MAC address is: ");
+    Serial.print("The ESP32's Bluetooth MAC address is: "); // to display you mad address
     Serial.println(address);
 }
 
