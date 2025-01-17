@@ -9,7 +9,7 @@ int enableLeftMotor=23;
 int leftMotorPin1=18;
 int leftMotorPin2=19;
 
-#define MAX_MOTOR_SPEED 200
+#define MAX_MOTOR_SPEED 200 /* you can change the speed */
 
 const int PWMFreq = 1000; /* 1 KHz */
 const int PWMResolution = 8;
