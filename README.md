@@ -12,3 +12,4 @@ Low Latency:PS3 controllers are designed for real-time gaming, so you won’t ha
 Comfort and Precision: The PS3 controller has a familiar layout and provides good tactile feedback, making it easy to control the robot. The analog sticks are precise, so you can easily navigate obstacles and execute moves with accuracy.
 Durability: PS3 controllers are built to last and are usually more durable than mobile phones or drone controllers, so you don’t have to worry about them breaking during the competition.
 Affordability:PS3 controllers are easy to find and not too expensive, so they’re a good option for college robotics teams.
+This code can be used for many bots
