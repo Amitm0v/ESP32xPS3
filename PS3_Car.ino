@@ -7,8 +7,7 @@ int rightMotorPin2=17;
 //Left motor
 int enableLeftMotor=23;
 int leftMotorPin1=18;
-int leftMotorPin2=19;
-
+int leftMotorPin2=19;
 
 #define MAX_MOTOR_SPEED 200 /* you can change the speed */
 
