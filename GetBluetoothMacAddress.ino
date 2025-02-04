@@ -1,5 +1,4 @@
 #include <Ps3Controller.h>
-
 void setup()
 {
     Serial.begin(115200);
