@@ -1,6 +1,6 @@
 # ESP32xPS3
 Here is the link to my Instructables https://www.instructables.com/Building-a-Bluetooth-Controlled-Robot-Car-With-ESP/
-This Repository will show you how to build a Bluetooth-controlled robot car using an ESP32 microcontroller and a PS3 controller. By doing this project, you’ll learn about electronics, programming, and robotics, and you’ll also get a head start on your college team’s next robotics event.
+This Repository will show you how to build a Bluetooth-controlled robot car and boat too using an ESP32 microcontroller and a PS3 controller. By doing this project, you’ll learn about electronics, programming, and robotics, and you’ll also get a head start on your college team’s next robotics event.
 
 In the exciting world of college robotics competitions, precision and quick thinking are key. Whether you’re ready for a thrilling robot race or a strategic game of robo-soccer, the right control system can make all the difference. While mobile phone apps and drone controllers are convenient, they often have limitations like slow response times, poor accuracy, and lack of durability.
 
