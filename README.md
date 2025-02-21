@@ -8,6 +8,7 @@ Test Run: https://www.youtube.com/watch?v=0Je_1IUgr3s
 
 This project shows you why using a PS3 controller to control an ESP32-powered robot car is a great idea. PS3 controllers are a well-known gaming device that has many advantages:
 
+
 Low Latency:PS3 controllers are designed for real-time gaming, so you won’t have to wait long for your actions to be reflected in the robot’s movements. This is especially important in fast-paced competitions where quick decisions can make a big difference.
 Comfort and Precision: The PS3 controller has a familiar layout and provides good tactile feedback, making it easy to control the robot. The analog sticks are precise, so you can easily navigate obstacles and execute moves with accuracy.
 Durability: PS3 controllers are built to last and are usually more durable than mobile phones or drone controllers, so you don’t have to worry about them breaking during the competition.
